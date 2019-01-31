@@ -30,7 +30,7 @@ go build
 
 The battle between the bad and the good. Send the bugs, feature requests and code submits. All are welcome and thank you for your contribution.
 
-Believe in us as much as we believe in you.
+Believe in us as much as we believe in you. We need your help to make it better.
 
 ## Licensing
 
